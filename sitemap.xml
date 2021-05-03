@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://www.toastmasterskosice.sk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.toastmasterskosice.sk/blog/2019-11-11-sila-podii/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/blog/2020-02-03-coho-sa-najviac-bojim/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/blog/2020-05-19-co-ma-zaujalo-na-japonsku/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/blog/2020-11-11-prejav-ktory-zaujme/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,6 +17,9 @@
 <url> <loc>https://www.toastmasterskosice.sk/pre-clenov/2021-01-27-zmena-organizacie-online-stretnuti/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/pre-clenov/2021-02-19-novinky-v-nasom-klube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/pre-clenov/2021-02-22-druhe-anglicke-stretnutie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.toastmasterskosice.sk/tags/verejne-vystupovanie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.toastmasterskosice.sk/tags/recnictvo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.toastmasterskosice.sk/tags/osobna-skusenost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/blogerska-vyzva/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/strach/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/pripraveny-prejav/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -28,7 +32,6 @@
 <url> <loc>https://www.toastmasterskosice.sk/tags/vedenie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/prezident-klubu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/praca-na-sebe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.toastmasterskosice.sk/tags/osobna-skusenost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/clenstvo-v-toastmasters/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/viceprezident-pre-clenstvo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.toastmasterskosice.sk/tags/viceprezident-pre-vztahy-s-verejnostou/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
